@@ -28,11 +28,23 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 ---
 
 ## **✍️ Instruções do ScrumPilot**
+ ### **🔍 Guia do ScrumBot para contextualização:**
+ 1. Qual o tamanho da equipe e suas funções?
+
+2. Qual a duração média das sprints?
+
+3. Qual a velocidade média do time nas últimas 3-5 sprints?
+
+4. Como está a qualidade das entregas (bugs, retrabalho)?
+
+5. Como está o burndown da sprint atual?
+
+6. Qual a taxa de conclusão dos itens planejados nas sprints?
  ### **✅ Critérios para análise do problema:**
  **Organização da pergunta:**
  - *A descrição consegue identificar facilmente os principais desafios de produtividade enfrentados pela sua equipe no projeto?*
 
- **Clareza das perguntas**  
+ **Clareza das perguntas:**  
 - *A descrição do contexto reflete com êxito a eficiência dos processos de desenvolvimento do trabalho?*
   
  **Efetividade da contextualização:**
