@@ -12,7 +12,7 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 ---
 
-## **Membros do Grupo**  
+## **👥 Membros do Grupo**  
 - [Aira Mel Bezerra Souza ](http://www.linkedin.com/in/aira-mel-76325734a)
 - [Chistian Vinícius Granda dos santos](http://www.linkedin.com/in/christian-gandra-714291252)
 - [Davi Duarte Rodrigues](https://www.linkedin.com/in/daviduarte)
@@ -33,7 +33,7 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 ---
 
-## **Temas de conversa:**
+## **💬 Temas de conversa:**
 - Organização de tarefas e demandas (a fazer, fazendo e feito)
 - Gestão de prazos pessoais e da equipe
 - Cooperação estreita entre todos os papéis e funções na equipe.
@@ -43,7 +43,7 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 
 ---
-### ***📖 Referências Utilizadas:***
+## ***📖 Referências Utilizadas:***
 -  [_Learning to be a Tech Lead_](https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_)  
 -  [_Leadership Is More Than Just Efficiency And Processes_](https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/)  
 -  [_Função: Scrum Master_](https://www.trt9.jus.br/pds/Scrum/roles/scrummaster_357FCB70.html)
