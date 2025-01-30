@@ -6,10 +6,11 @@
  
 </h1>
 <h2>📘 About </h2> 
-  &nbsp O ScrumPilot é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, baseado na metodologia Scrum. Ele oferece funcionalidades como: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
- 
- Além disso, um dos objetivos do ScrumPilot é auxiliar o líder a se manter presente durante o trabalho do time de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o seguimento do projeto, de modo a assegura que o time esteja totalmente funcional e produtivo.
+  O ScrumPilot é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, com base na metodologia Scrum. Entre suas funcionalidades, destacam-se: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
 
+Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a se manter presente durante o trabalho da equipe de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o andamento do projeto. Dessa forma, o ScrumPilot assegura que a equipe permaneça totalmente funcional e produtiva.
+
+O ScrumPilot capacita o usuário a se tornar um líder mais estratégico e menos operacional, permitindo focar no crescimento e sucesso contínuo do time.
 ---
 
 ## **👥 Membros do Grupo**  
