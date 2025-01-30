@@ -12,11 +12,7 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 
 > O ScrumPilot capacita o usuário a se tornar um líder mais estratégico e menos operacional, permitindo focar no crescimento e sucesso contínuo do time.
 
-<a href="https://chatgpt.com/g/g-679b7a5f99388191b8b7508faa5b63d5-scrumpilot" target="_blank">
-    <button style="background-color:#28a745; color:white; padding:10px 20px; border:none; border-radius:5px; cursor:pointer;">
-        📖 Acessar o Agente no ChatGPT
-    </button>
-</a>
+[![Ver README](https://img.shields.io/badge/Usar-Agente-orange?style=for-the-badge&logo=openai)](https://chatgpt.com/g/g-679b7a5f99388191b8b7508faa5b63d5-scrumpilot)
 
 
 ---
