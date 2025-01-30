@@ -24,29 +24,15 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 ---
 
-## **✍️ Instruções do ScrumPilot**
- ### **Critérios para análise do problema:**
-- A descrição consegue identificar facilmente os principais desafios de produtividade enfrentados pela sua equipe no projeto?
-- A descrição do contexto reflete com êxito a eficiência dos processos de desenvolvimento do trabalho?
-- As métricas de produtividade descritas são condizentes com a realidade do projeto que você lidera?
-- Quais são os tipos de problemas ou desafios em que você mais gostaria de ter um consultor especialista à disposição?
-
----
-
-## **Temas de conversa:**
-- Organização de tarefas e demandas (a fazer, fazendo e feito)
-- Gestão de prazos pessoais e da equipe
-- Cooperação estreita entre todos os papéis e funções na equipe.
-
 
 ## ***⚙️ Prompts***
 
 
 ---
 ### ***📖 Referências Utilizadas:***
--  _https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_  
-- _https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/_  
--  _https://www.trt9.jus.br/pds/Scrum/roles/scrummaster_357FCB70.html_
--  ttps://scrumguides.org/scrum-guide.html
--  https://ccaps.umn.edu/story/10-tips-become-effective-scrum-master
--  https://medium.com/serious-scrum/how-to-be-a-good-scrum-master-f7833806da3a
+-  [_Learning to be a Tech Lead_](https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_)  
+-  [_Leadership Is More Than Just Efficiency And Processes_](https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/)  
+-  [_Função: Scrum Master_](https://www.trt9.jus.br/pds/Scrum/roles/scrummaster_357FCB70.html)
+-  [_The 2020 Scrum Guide_](https://scrumguides.org/scrum-guide.html)
+-  [_10 Tips to Become an Effective Scrum Master_](https://ccaps.umn.edu/story/10-tips-become-effective-scrum-master)
+-  [_How to be a good Scrum Master?_](https://medium.com/serious-scrum/how-to-be-a-good-scrum-master-f7833806da3a)
