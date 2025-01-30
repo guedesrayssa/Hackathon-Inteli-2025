@@ -6,11 +6,13 @@
  
 </h1>
 <h2>📘 About </h2> 
-  O ScrumPilot é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, com base na metodologia Scrum. Entre suas funcionalidades, destacam-se: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
+
+  O **ScrumPilot** é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, com base na metodologia Scrum. Entre suas funcionalidades, destacam-se: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
 
 Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a se manter presente durante o trabalho da equipe de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o andamento do projeto. Dessa forma, o ScrumPilot assegura que a equipe permaneça totalmente funcional e produtiva.
 
-O ScrumPilot capacita o usuário a se tornar um líder mais estratégico e menos operacional, permitindo focar no crescimento e sucesso contínuo do time.
+> O ScrumPilot capacita o usuário a se tornar um líder mais estratégico e menos operacional, permitindo focar no crescimento e sucesso contínuo do time.
+
 ---
 
 ## **👥 Membros do Grupo**  
@@ -19,26 +21,33 @@ O ScrumPilot capacita o usuário a se tornar um líder mais estratégico e menos
 - [Davi Duarte Rodrigues](https://www.linkedin.com/in/daviduarte)
 - [Gabriel Leon Lima Costa](https://www.linkedin.com/in/gabriel-leon-1545b0329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Guilherme Holanda Marques](https://www.linkedin.com/in/guilherme-holanda-marques-a33aa6288/)
-- [Luiz Gustavo Borges](#)
+- [Luiz Gustavo Borges](https://www.linkedin.com/in/luiz-gustavo-0b33b62b7/)
 - [Rafael Santana Rodrigues](https://www.linkedin.com/in/rafael-santana-rodrigues/)
 - [Rayssa Guedes França](https://www.linkedin.com/in/rayssaguedess/)
 
 ---
 
 ## **✍️ Instruções do ScrumPilot**
- ### **Critérios para análise do problema:**
-- A descrição consegue identificar facilmente os principais desafios de produtividade enfrentados pela sua equipe no projeto?
-- A descrição do contexto reflete com êxito a eficiência dos processos de desenvolvimento do trabalho?
-- As métricas de produtividade descritas são condizentes com a realidade do projeto que você lidera?
-- Quais são os tipos de problemas ou desafios em que você mais gostaria de ter um consultor especialista à disposição?
+ ### **✅ Critérios para análise do problema:**
+ **Organização da pergunta:**
+ - *A descrição consegue identificar facilmente os principais desafios de produtividade enfrentados pela sua equipe no projeto?*
+
+ **Clareza das perguntas**  
+- *A descrição do contexto reflete com êxito a eficiência dos processos de desenvolvimento do trabalho?*
+  
+ **Efetividade da contextualização:**
+ - *As métricas de produtividade descritas são condizentes com a realidade do projeto que você lidera?*
+   
+ **Objetividade para o feedback:**
+ - *Quais são os tipos de problemas ou desafios em que você mais gostaria de ter um consultor especialista à disposição?*
 
 ---
 
 ## **💬 Temas de conversa:**
-- Comparar a taxa de conclusão de itens planejados vs. concluídos.
-- Analisar a velocidade média das Sprints e identificar gargalos.
-- Gestão de prazos pessoais e da equipe
-- Cooperação estreita entre todos os papéis e funções na equipe.
+ - Comparar a taxa de conclusão de itens planejados vs. concluídos.
+- Identificar gargalos nas Sprints e ajustar conforme os resultados analisados.
+- Resolver conflitos internos e melhorar a comunicação.
+- Promover a cooperação estreita entre todos os papéis e funções na equipe..
 
 
 ## ***⚙️ Prompts***
