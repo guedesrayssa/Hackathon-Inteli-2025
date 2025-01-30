@@ -42,12 +42,10 @@
 
 ## ***⚙️ Prompts***
 
-=======
+---
 
 ## ***📖 Referências Utilizadas:***
 -  [_Learning to be a Tech Lead_](https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_)  
 -  [_Leadership Is More Than Just Efficiency And Processes_](https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/)  
--  [_Função: Scrum Master_](https://www.trt9.jus.br/pds/Scrum/roles/scrummaster_357FCB70.html)
 -  [_The 2020 Scrum Guide_](https://scrumguides.org/scrum-guide.html)
--  [_10 Tips to Become an Effective Scrum Master_](https://ccaps.umn.edu/story/10-tips-become-effective-scrum-master)
--  [_How to be a good Scrum Master?_](https://medium.com/serious-scrum/how-to-be-a-good-scrum-master-f7833806da3a)
+-  [_Manifesto do Inteli](https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view)
