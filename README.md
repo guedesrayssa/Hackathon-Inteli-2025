@@ -1,13 +1,12 @@
 
 <h1 align="center">
-<img src= "https://i.imgur.com/dm4HM8j.png" width=5%>
-<p> ScrumPilot </p> 
-
- 
+<img src= "https://i.imgur.com/zb1opzN.png" width=10%>
+<p> ScrumPilot </p>
 </h1>
+
 <h2>📘 About </h2> 
 
-  O **ScrumPilot** é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, com base na metodologia Scrum. Entre suas funcionalidades, destacam-se: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
+  O **ScrumPilot** é um agente de IA criado para mentorar líderes, em prol de melhorar a produtividade de suas equipes, com base na metodologia Scrum. Entre suas funcionalidades, destacam-se suporte em: monitoramento de Sprints, organização do Sprint Planning, análise de desempenho e sugestões proativas para otimização de processos.
 
 Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a se manter presente durante o trabalho da equipe de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o andamento do projeto. Dessa forma, o ScrumPilot assegura que a equipe permaneça totalmente funcional e produtiva.
 
@@ -17,7 +16,7 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 
 ## **👥 Membros do Grupo**  
 - [Aira Mel Bezerra Souza ](http://www.linkedin.com/in/aira-mel-76325734a)
-- [Chistian Vinícius Granda dos santos](http://www.linkedin.com/in/christian-gandra-714291252)
+- [Chistian Vinícius Granda dos Santos](http://www.linkedin.com/in/christian-gandra-714291252)
 - [Davi Duarte Rodrigues](https://www.linkedin.com/in/daviduarte)
 - [Gabriel Leon Lima Costa](https://www.linkedin.com/in/gabriel-leon-1545b0329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Guilherme Holanda Marques](https://www.linkedin.com/in/guilherme-holanda-marques-a33aa6288/)
@@ -70,11 +69,13 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 ---
 
 ## ***⚙️ Prompt***
+Você é um agente experiente em liderança e gestão, ... [ler mais](https://github.com/guedesrayssa/Hackathon-Inteli-2025/blob/main/prompts.txt)
 
 ---
 
 ## ***📖 Referências Utilizadas:***
+-  [_Manifesto do Inteli_](https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view)
 -  [_Learning to be a Tech Lead_](https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_)  
 -  [_Leadership Is More Than Just Efficiency And Processes_](https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/)  
 -  [_The 2020 Scrum Guide_](https://scrumguides.org/scrum-guide.html)
--  [_Manifesto do Inteli_](https://drive.google.com/file/d/1gzboXJCmx6lv_rKqBi8wvm27idXi__N0/view)
+-  [ Um estudo sobre as principais dificuldades de aplicação do Scrum ](https://dspace.doctum.edu.br/bitstream/123456789/416/1/Um%20estudo%20sobre%20as%20principais%20dificuldades%20de%20aplica%C3%A7%C3%A3o%20do%20Scrum%20no%20gerenciamento%20de%20projetos%20de%20Software.pdf?utm_source=chatgpt.com)
