@@ -24,20 +24,6 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 ---
 
-## **✍️ Instruções do ScrumPilot**
- ### **Critérios para análise do problema:**
-- A descrição consegue identificar facilmente os principais desafios de produtividade enfrentados pela sua equipe no projeto?
-- A descrição do contexto reflete com êxito a eficiência dos processos de desenvolvimento do trabalho?
-- As métricas de produtividade descritas são condizentes com a realidade do projeto que você lidera?
-- Quais são os tipos de problemas ou desafios em que você mais gostaria de ter um consultor especialista à disposição?
-
----
-
-## **Temas de conversa:**
-- Organização de tarefas e demandas (a fazer, fazendo e feito)
-- Gestão de prazos pessoais e da equipe
-- Cooperação estreita entre todos os papéis e funções na equipe.
-
 
 ## ***⚙️ Prompts***
 
