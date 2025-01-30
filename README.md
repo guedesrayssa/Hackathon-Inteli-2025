@@ -62,14 +62,14 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 ---
 
 ## **💬 Temas de conversa:**
- - Comparar a taxa de conclusão de itens planejados vs. concluídos.
+- Comparar a taxa de conclusão de itens planejados vs. concluídos.
 - Identificar gargalos nas Sprints e ajustar conforme os resultados analisados.
 - Resolver conflitos internos e melhorar a comunicação.
-- Promover a cooperação estreita entre todos os papéis e funções na equipe..
+- Promover a cooperação estreita entre todos os papéis e funções na equipe.
 
 ---
 
-## ***⚙️ Prompts***
+## ***⚙️ Prompt***
 
 ---
 
