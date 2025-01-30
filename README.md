@@ -6,9 +6,9 @@
  
 </h1>
 <h2>📘 About </h2> 
-O ScrumPilot é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, baseado na metodologia Scrum. Ele oferece funcionalidades como: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
-
-  Além disso, um dos objetivos do **ScrumPilot** é auxiliar o líder a se manter presente durante o trabalho do time de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o seguimento do projeto, de modo a assegura que o time esteja totalmente funcional e produtivo.
+  &nbsp O ScrumPilot é um agente de IA criado para apoiar líderes na organização e melhoria da produtividade de suas equipes, baseado na metodologia Scrum. Ele oferece funcionalidades como: monitoramento de Sprints, organização de Daily Scrum, análise de desempenho e sugestões proativas para otimização de processos.
+ 
+ Além disso, um dos objetivos do ScrumPilot é auxiliar o líder a se manter presente durante o trabalho do time de desenvolvimento, removendo impedimentos e protegendo a equipe de interrupções ou adversidades que possam comprometer o seguimento do projeto, de modo a assegura que o time esteja totalmente funcional e produtivo.
 
 ---
 
@@ -33,8 +33,9 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 
 ---
 
-## **💬 Temas de conversa:**
-- Organização de tarefas e demandas (a fazer, fazendo e feito)
+## **🗣️ Temas de conversa:**
+- Comparar a taxa de conclusão de itens planejados vs. concluídos.
+- Analisar a velocidade média das Sprints e identificar gargalos.
 - Gestão de prazos pessoais e da equipe
 - Cooperação estreita entre todos os papéis e funções na equipe.
 
@@ -42,7 +43,7 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 ## ***⚙️ Prompts***
 
 
----
+=======
 ## ***📖 Referências Utilizadas:***
 -  [_Learning to be a Tech Lead_](https://miryeh.medium.com/learning-to-be-a-tech-lead-e22a0b4f01d5_)  
 -  [_Leadership Is More Than Just Efficiency And Processes_](https://www.forbes.com/sites/joyceearussell/2023/04/10/leadership-is-more-than-just-efficiency-and-processes/)  
@@ -50,3 +51,4 @@ O ScrumPilot é um agente de IA criado para apoiar líderes na organização e m
 -  [_The 2020 Scrum Guide_](https://scrumguides.org/scrum-guide.html)
 -  [_10 Tips to Become an Effective Scrum Master_](https://ccaps.umn.edu/story/10-tips-become-effective-scrum-master)
 -  [_How to be a good Scrum Master?_](https://medium.com/serious-scrum/how-to-be-a-good-scrum-master-f7833806da3a)
+
