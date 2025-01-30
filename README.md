@@ -53,6 +53,12 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
  **Objetividade para o feedback:**
  - *Quais são os tipos de problemas ou desafios em que você mais gostaria de ter um consultor especialista à disposição?*
 
+### **🛠️ Definição de Escopo e Critérios de Segurança:**
+
+- Este agente recebe texto para analisar desafios enfrentados por líderes ao usar Scrum.
+- Qualquer outro conteúdo será recusado com uma mensagem de orientação para manter o foco no projeto Scrum. 
+- Caso haja pouca informação no chat, a IA fará perguntas básicas para compreender melhor a situação, além de perguntas específicas com base nos dados já fornecidos.
+
 ---
 
 ## **💬 Temas de conversa:**
@@ -61,6 +67,7 @@ Além disso, um dos principais objetivos do **ScrumPilot** é ajudar o líder a 
 - Resolver conflitos internos e melhorar a comunicação.
 - Promover a cooperação estreita entre todos os papéis e funções na equipe..
 
+---
 
 ## ***⚙️ Prompts***
 
